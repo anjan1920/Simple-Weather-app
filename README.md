@@ -8,7 +8,7 @@ A simple frontend project that fetches and displays real-time weather data using
 - Handles errors for invalid or empty input
 
 ## 🔗 Live Site
-[Live Demo](http://www.simple.weatherapp.25.com/)
+[Click here ](http://www.simple.weatherapp.25.com/)
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript (Vanilla)
