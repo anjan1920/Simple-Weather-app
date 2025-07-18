@@ -7,8 +7,7 @@ A simple frontend project that fetches and displays real-time weather data using
 - Displays temperature, feels-like, humidity, and weather description
 - Handles errors for invalid or empty input
 
-## 🔗 Live Site
-[Click here ](http://www.simple.weatherapp.25.com/)
+
 
 ## 🛠️ Tech Stack
 - HTML, CSS, JavaScript (Vanilla)
