@@ -2,6 +2,7 @@
 
 A simple frontend project that fetches and displays real-time weather data using the OpenWeatherMap API.
 
+Website is live - https://anjan1920.github.io/Simple-Weather-app/
 ## 🔹 Features
 - User enters a city name
 - Displays temperature, feels-like, humidity, and weather description
